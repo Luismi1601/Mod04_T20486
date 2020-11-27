@@ -1,0 +1,15 @@
+C:\Curso\20486\Luismi\Tareas\Mod04\Democode\03_FiltersExample_begin\FiltersExample\bin\Debug\netcoreapp2.1\FiltersExample.deps.json
+C:\Curso\20486\Luismi\Tareas\Mod04\Democode\03_FiltersExample_begin\FiltersExample\bin\Debug\netcoreapp2.1\FiltersExample.runtimeconfig.json
+C:\Curso\20486\Luismi\Tareas\Mod04\Democode\03_FiltersExample_begin\FiltersExample\bin\Debug\netcoreapp2.1\FiltersExample.runtimeconfig.dev.json
+C:\Curso\20486\Luismi\Tareas\Mod04\Democode\03_FiltersExample_begin\FiltersExample\bin\Debug\netcoreapp2.1\FiltersExample.dll
+C:\Curso\20486\Luismi\Tareas\Mod04\Democode\03_FiltersExample_begin\FiltersExample\bin\Debug\netcoreapp2.1\FiltersExample.pdb
+C:\Curso\20486\Luismi\Tareas\Mod04\Democode\03_FiltersExample_begin\FiltersExample\obj\Debug\netcoreapp2.1\FiltersExample.csprojAssemblyReference.cache
+C:\Curso\20486\Luismi\Tareas\Mod04\Democode\03_FiltersExample_begin\FiltersExample\obj\Debug\netcoreapp2.1\FiltersExample.AssemblyInfoInputs.cache
+C:\Curso\20486\Luismi\Tareas\Mod04\Democode\03_FiltersExample_begin\FiltersExample\obj\Debug\netcoreapp2.1\FiltersExample.AssemblyInfo.cs
+C:\Curso\20486\Luismi\Tareas\Mod04\Democode\03_FiltersExample_begin\FiltersExample\obj\Debug\netcoreapp2.1\FiltersExample.csproj.CoreCompileInputs.cache
+C:\Curso\20486\Luismi\Tareas\Mod04\Democode\03_FiltersExample_begin\FiltersExample\obj\Debug\netcoreapp2.1\FiltersExample.RazorAssemblyInfo.cache
+C:\Curso\20486\Luismi\Tareas\Mod04\Democode\03_FiltersExample_begin\FiltersExample\obj\Debug\netcoreapp2.1\FiltersExample.RazorAssemblyInfo.cs
+C:\Curso\20486\Luismi\Tareas\Mod04\Democode\03_FiltersExample_begin\FiltersExample\obj\Debug\netcoreapp2.1\FiltersExample.RazorTargetAssemblyInfo.cache
+C:\Curso\20486\Luismi\Tareas\Mod04\Democode\03_FiltersExample_begin\FiltersExample\obj\Debug\netcoreapp2.1\FiltersExample.dll
+C:\Curso\20486\Luismi\Tareas\Mod04\Democode\03_FiltersExample_begin\FiltersExample\obj\Debug\netcoreapp2.1\FiltersExample.pdb
+C:\Curso\20486\Luismi\Tareas\Mod04\Democode\03_FiltersExample_begin\FiltersExample\obj\Debug\netcoreapp2.1\FiltersExample.genruntimeconfig.cache
